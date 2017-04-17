@@ -1,0 +1,6 @@
+[submodule "stl/nutsnbolts"]
+	path = stl/nutsnbolts
+	url = https://github.com/JohK/nutsnbolts.git
+[submodule "scad/nutsnbolts"]
+	path = scad/nutsnbolts
+	url = https://github.com/JohK/nutsnbolts.git
